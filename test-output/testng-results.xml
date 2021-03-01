@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-01T02:18:23Z" name="Default suite" finished-at="2021-03-01T02:18:28Z" duration-ms="4907">
+    <groups>
+    </groups>
+    <test started-at="2021-03-01T02:18:23Z" name="Default test" finished-at="2021-03-01T02:18:28Z" duration-ms="4907">
+      <class name="com.qa.testcase.WebApp">
+        <test-method signature="WebappSearchboxTest()[pri:0, instance:com.qa.testcase.WebApp@379614be]" started-at="2021-03-01T02:18:24Z" name="WebappSearchboxTest" finished-at="2021-03-01T02:18:28Z" duration-ms="4842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebappSearchboxTest -->
+      </class> <!-- com.qa.testcase.WebApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
